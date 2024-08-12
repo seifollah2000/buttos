@@ -13,6 +13,7 @@ Liquid Effect Button: A liquid-like motion adds a unique visual flair.
 Snake Border Button: A snaking border that animates around the button’s edges.
 Hover Effect Buttons: Various hover effects that create an engaging user experience.
 Neon Glow Button: A vibrant neon effect that intensifies on hover.
+
 🛠️ Installation & Usage
 Clone the repository:
 
@@ -46,15 +47,14 @@ const rippleBtn = document.getElementById('ripple');
 rippleBtn.addEventListener('mouseover', function (e) {
 // Ripple effect logic here...
 });
+
 📁 Project Structure
 index.html: Contains the HTML markup for the buttons.
 index.css: Includes the styles and animations for the buttons.
 index.js: Handles any JavaScript-based interactivity.
+
 🌈 Customization
 Feel free to modify the styles, colors, and animations to match your project’s design language. The code is well-organized and easy to understand, making customization straightforward.
-
-🌍 Live Demo
-Check out the live demo of the button animations here.
 
 🤝 Contributions
 Contributions are welcome! If you have a new button animation idea or improvements, please fork the repository, make your changes, and submit a pull request. Let’s create beautiful buttons together!
